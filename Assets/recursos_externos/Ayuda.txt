@@ -1,0 +1,14 @@
+Ayuda a nuestro héroe a recolectar la básura y a limpiar el hábitat. Los puntos que ganés al recoger algún desecho
+dependen del tipo de basura que recolectes.
+
+Desecho orgánico - 3 a 4 semanas
+Papel - 1 año
+Lata de metal - 10 años
+Botella de plástico - 100 a 1000 años
+Botella de vidrio - 4000 años 
+Bombilla - 4000 años
+Bateria - +1000 años
+Celular - Tiene plástico (100 a 1000 años)
+	  Pantalla vidrio (4000 años)
+
+
